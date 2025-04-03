@@ -70,7 +70,7 @@
     * In your project directory terminal: `npm install --save-dev hardhat`
     * *Explanation:* Installs Hardhat and a helpful toolbox plugin (includes ethers.js, waffle testing, etc.). `--save-dev` marks it as a development dependency.
 * **Step 7: Initialize Hardhat Project:**
-    * Run: `npx hardhat`
+    * Run: `npx hardhat init`
     * Choose "Create a JavaScript/TypeScript project" (select JavaScript for simplicity first).
     * Accept defaults for project root, adding `.gitignore`.
     * Install sample project dependencies if prompted (`npm install`).
