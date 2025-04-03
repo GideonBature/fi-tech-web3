@@ -1,4 +1,4 @@
-# Teaching Guide: Blockchain Development Fundamentals
+# Blockchain Development Fundamentals
 
 ## Part 1: Setting Up Blockchain Development Tools
 
